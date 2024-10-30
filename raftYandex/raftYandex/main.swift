@@ -8,7 +8,20 @@ func totalDaysInYear(allDaysInMonths: [Int]) -> Int {
     return totalDaysInYear
 }
 
+//высчитываю сколько прошло лет в днях от начала времен
+func TotalDateYear(YearTarget: Int, totalDaysInYear: Int) -> Int {
+    let eclipseDateYear = (YearTarget - 1) * totalDaysInYear
+    return eclipseDateYear
+}
 
+//высчитываю сколько прошло месяцев в днях от начала времен
+func TotalDateMonth(monthTarget:Int, daysInMonths:[Int]) -> Int {
+    var eclipseDateMonth = 0
+    for i in 0..<monthTarget-1 {
+        eclipseDateMonth += daysInMonths[i]
+    }
+    return eclipseDateMonth
+}
 
 func my_date() {
 //  считываю месяцы и дни в неделе
@@ -16,7 +29,7 @@ func my_date() {
     let components1 = input1.split(separator: " ")
     guard components1.count == 2,
     let monthsInYear = Int(components1[0]),
-    let daysInYear = Int(components1[1])
+    let daysInWeek = Int(components1[1])
     else {
         print("ошибка")
         return
@@ -46,7 +59,7 @@ func my_date() {
     let dayToday = Int(components3[0]),
     let monthToday = Int(components3[1]),
     let YearToday = Int(components3[2]),
-    let WeekDнToday = Int(components3[3])
+    let WeekDayToday = Int(components3[3])
     else {
         print("ошибка")
         return
@@ -62,22 +75,29 @@ func my_date() {
         print("ошибка")
         return
     }
-//    высчитываю сколько дней в году (попробуй вынести в отдельную функцию)
-    
-   var totalDaysInYear = totalDaysInYear(allDaysInMonths:daysInMonths)
+//    высчитываю сколько дней в году
+   let totalDaysInYear = totalDaysInYear(allDaysInMonths:daysInMonths)
 
 //высчитываю сколько прошло лет в днях от начала времен
-    var eclipseDateYear = (YearTarget - 1) * totalDaysInYear
+    let eclipseDateYear = TotalDateYear(YearTarget: YearTarget, totalDaysInYear: totalDaysInYear)
+    
 //высчитываю сколько прошло месяцев в днях от начала времен
-    var eclipseDateMonth = 0
-    for i in 0..<monthTarget-1 {
-        eclipseDateMonth += daysInMonths[i]
-    }
+    let eclipseDateMonth = TotalDateMonth(monthTarget: monthTarget, daysInMonths: daysInMonths)
+        
 //высчитываю сколько прошло всего дней
-    var TotalDaysFromEclipse = eclipseDateYear + eclipseDateMonth + dayTarget
+    let TotalDaysFromEclipse = eclipseDateYear + eclipseDateMonth + dayTarget
     
-    print(TotalDaysFromEclipse)
     
+    //высчитываю сколько прошло лет в днях от начала времен (сегодня)
+    let TadayDateYear = TotalDateYear(YearTarget: YearToday, totalDaysInYear: totalDaysInYear)
+    //высчитываю сколько прошло месяцев в днях от начала времен (сегодня)
+    let TodayDateMonth = TotalDateMonth(monthTarget: monthToday, daysInMonths: daysInMonths)
+    let TotalDaysFromToday = TadayDateYear + TodayDateMonth + dayToday
+    
+    let DiffEclipseToday = TotalDaysFromEclipse - TotalDaysFromToday
+    
+    let result = (WeekDayToday + DiffEclipseToday) % daysInWeek
+    print(result)
     
 }
 
