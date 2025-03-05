@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "73A9B4C4-F7F7-4753-827D-436F32A44BE5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECDCC414-6A81-4225-B1F9-E5A15C5C61F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode_consecutive_1146/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "maxPower(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ECDCC414-6A81-4225-B1F9-E5A15C5C61F7 - 8e442c7bcd78d4e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "235">
+               </Location>
+               <Location
+                  uuid = "ECDCC414-6A81-4225-B1F9-E5A15C5C61F7 - 8e442c7bcd78d4e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "ECDCC414-6A81-4225-B1F9-E5A15C5C61F7 - 8e442c7bcd78d4c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "219">
+               </Location>
+               <Location
+                  uuid = "ECDCC414-6A81-4225-B1F9-E5A15C5C61F7 - 8e442c7bcd78d4c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "225">
+               </Location>
+               <Location
+                  uuid = "ECDCC414-6A81-4225-B1F9-E5A15C5C61F7 - 8e442c7bcd78d4c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "241">
+               </Location>
+               <Location
+                  uuid = "ECDCC414-6A81-4225-B1F9-E5A15C5C61F7 - 8e442c7bcd78d4c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  uuid = "ECDCC414-6A81-4225-B1F9-E5A15C5C61F7 - 8e442c7bcd78d4c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "ECDCC414-6A81-4225-B1F9-E5A15C5C61F7 - 8e442c7bcd78d4c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "215">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EE0E024-2641-4826-9C38-28FC2B7FC250"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode_consecutive_1146/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "maxPower(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8EE0E024-2641-4826-9C38-28FC2B7FC250 - 8e442c7bcd78d403"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "8EE0E024-2641-4826-9C38-28FC2B7FC250 - 8e442c7bcd78d403"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "8EE0E024-2641-4826-9C38-28FC2B7FC250 - 8e442c7bcd78d403"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "8EE0E024-2641-4826-9C38-28FC2B7FC250 - 8e442c7bcd78d403"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "450">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09F5DB34-4F06-4B64-AEEB-30E77F66ECF1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode_consecutive_1146/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "maxPower(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09F5DB34-4F06-4B64-AEEB-30E77F66ECF1 - 8e442c7bcd78d422"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "09F5DB34-4F06-4B64-AEEB-30E77F66ECF1 - 8e442c7bcd78d422"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "575">
+               </Location>
+               <Location
+                  uuid = "09F5DB34-4F06-4B64-AEEB-30E77F66ECF1 - 8e442c7bcd78d422"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "559">
+               </Location>
+               <Location
+                  uuid = "09F5DB34-4F06-4B64-AEEB-30E77F66ECF1 - 8e442c7bcd78d422"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "557">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8491F2D7-5655-4151-BA51-5AB98969B3BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode_consecutive_1146/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "maxPower(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8491F2D7-5655-4151-BA51-5AB98969B3BA - 8e442c7bcd78d45d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "370">
+               </Location>
+               <Location
+                  uuid = "8491F2D7-5655-4151-BA51-5AB98969B3BA - 8e442c7bcd78d45d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "583">
+               </Location>
+               <Location
+                  uuid = "8491F2D7-5655-4151-BA51-5AB98969B3BA - 8e442c7bcd78d45d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "567">
+               </Location>
+               <Location
+                  uuid = "8491F2D7-5655-4151-BA51-5AB98969B3BA - 8e442c7bcd78d45d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "565">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD8B2390-F09E-48B9-9027-561ABE00E513"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode_consecutive_1146/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "maxPower(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FD8B2390-F09E-48B9-9027-561ABE00E513 - 8e442c7bcd78d59f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "382">
+               </Location>
+               <Location
+                  uuid = "FD8B2390-F09E-48B9-9027-561ABE00E513 - 8e442c7bcd78d59f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "593">
+               </Location>
+               <Location
+                  uuid = "FD8B2390-F09E-48B9-9027-561ABE00E513 - 8e442c7bcd78d59f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "577">
+               </Location>
+               <Location
+                  uuid = "FD8B2390-F09E-48B9-9027-561ABE00E513 - 8e442c7bcd78d59f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_consecutive_1146.Solution.maxPower(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_consecutive_1146"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_consecutive_1146/leetcode_consecutive_1146/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "575">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
