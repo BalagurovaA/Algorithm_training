@@ -32,7 +32,6 @@ func theBiggestNumbRecursive(_ arr: [Int]) -> Int {
     }
 }
 
-
 let numbers = [3, 7, 1, 10, 5]
 let result = theBiggestNumbRecursive(numbers)
 print(result)
