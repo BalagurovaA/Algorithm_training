@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9BB6B114-3CF6-47E8-9D14-AD1AC14E9C39"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCB199FD-C92D-4A39-9200-CF2942D8F776"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode_roman_to_Integer/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "romanToInt(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DCB199FD-C92D-4A39-9200-CF2942D8F776 - 588f8b4ee901aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_roman_to_Integer.Solution.romanToInt(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_roman_to_Integer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_roman_to_Integer/leetcode_roman_to_Integer/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "966">
+               </Location>
+               <Location
+                  uuid = "DCB199FD-C92D-4A39-9200-CF2942D8F776 - 588f8b4ee901aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_roman_to_Integer.Solution.romanToInt(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_roman_to_Integer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_roman_to_Integer/leetcode_roman_to_Integer/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "947">
+               </Location>
+               <Location
+                  uuid = "DCB199FD-C92D-4A39-9200-CF2942D8F776 - 588f8b4ee901aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_roman_to_Integer.Solution.romanToInt(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_roman_to_Integer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_roman_to_Integer/leetcode_roman_to_Integer/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "971">
+               </Location>
+               <Location
+                  uuid = "DCB199FD-C92D-4A39-9200-CF2942D8F776 - 588f8b4ee901cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode_roman_to_Integer.Solution.romanToInt(Swift.String) -&gt; Swift.Int"
+                  moduleName = "leetcode_roman_to_Integer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/leetcode_roman_to_Integer/leetcode_roman_to_Integer/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "713">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

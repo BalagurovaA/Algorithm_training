@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2116A0CC-0EB9-4F84-A8E5-E685A490A528"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38D049F2-EB21-436A-B9F7-EB45DEF0AC5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "romanToIntegerTerminal/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2F1101A-9B7A-4BB8-877D-F72EA9210689"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "romanToIntegerTerminal/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "romanToInt(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8F21A42-575A-4E12-BD6E-BA422BAE1CB4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "romanToIntegerTerminal/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "romanToInt(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E44B2D5-5FD0-400C-BC64-D1493BED4C59"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "romanToIntegerTerminal/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "romanToInt(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E44B2D5-5FD0-400C-BC64-D1493BED4C59 - 353cfeee25458877"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "romanToIntegerTerminal.Solution.romanToInt(Swift.String) -&gt; Swift.Int"
+                  moduleName = "romanToIntegerTerminal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/romanToIntegerTerminal/romanToIntegerTerminal/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1863">
+               </Location>
+               <Location
+                  uuid = "5E44B2D5-5FD0-400C-BC64-D1493BED4C59 - 353cfeee25458877"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "romanToIntegerTerminal.Solution.romanToInt(Swift.String) -&gt; Swift.Int"
+                  moduleName = "romanToIntegerTerminal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/romanToIntegerTerminal/romanToIntegerTerminal/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1849">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD4B80F8-4521-4B56-972A-EDF4A228F7C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "romanToIntegerTerminal/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "romanToInt(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BD4B80F8-4521-4B56-972A-EDF4A228F7C9 - 353cfeee25458835"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "romanToIntegerTerminal.Solution.romanToInt(Swift.String) -&gt; Swift.Int"
+                  moduleName = "romanToIntegerTerminal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/romanToIntegerTerminal/romanToIntegerTerminal/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "2063">
+               </Location>
+               <Location
+                  uuid = "BD4B80F8-4521-4B56-972A-EDF4A228F7C9 - 353cfeee25458835"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "romanToIntegerTerminal.Solution.romanToInt(Swift.String) -&gt; Swift.Int"
+                  moduleName = "romanToIntegerTerminal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/romanToIntegerTerminal/romanToIntegerTerminal/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1893">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63412B41-FFB0-4F52-81A6-9DCD0ED229BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "romanToIntegerTerminal/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "romanToInt(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63412B41-FFB0-4F52-81A6-9DCD0ED229BC - 353cfeee25458814"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "romanToIntegerTerminal.Solution.romanToInt(Swift.String) -&gt; Swift.Int"
+                  moduleName = "romanToIntegerTerminal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/romanToIntegerTerminal/romanToIntegerTerminal/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "2072">
+               </Location>
+               <Location
+                  uuid = "63412B41-FFB0-4F52-81A6-9DCD0ED229BC - 353cfeee25458814"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "romanToIntegerTerminal.Solution.romanToInt(Swift.String) -&gt; Swift.Int"
+                  moduleName = "romanToIntegerTerminal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/romanToIntegerTerminal/romanToIntegerTerminal/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1902">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E95E9AB3-AAE4-4252-A1C3-2000D0251183"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "romanToIntegerTerminal/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "romanToInt(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E95E9AB3-AAE4-4252-A1C3-2000D0251183 - 353cfeee25458856"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "romanToIntegerTerminal.Solution.romanToInt(Swift.String) -&gt; Swift.Int"
+                  moduleName = "romanToIntegerTerminal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/romanToIntegerTerminal/romanToIntegerTerminal/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "2031">
+               </Location>
+               <Location
+                  uuid = "E95E9AB3-AAE4-4252-A1C3-2000D0251183 - 353cfeee25458856"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "romanToIntegerTerminal.Solution.romanToInt(Swift.String) -&gt; Swift.Int"
+                  moduleName = "romanToIntegerTerminal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/romanToIntegerTerminal/romanToIntegerTerminal/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1861">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

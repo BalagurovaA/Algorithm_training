@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "036B860B-5F5D-4C08-A16B-D6EFA24FE3AB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47041237-EF6A-4F55-BA0F-5805CB726980"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "algo/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "47041237-EF6A-4F55-BA0F-5805CB726980 - 30e1bc19b118d464"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "algo.Solution.search(Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "algo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/algo_hub/Algorithm_training/swift/algo/algo/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "191">
+               </Location>
+               <Location
+                  uuid = "47041237-EF6A-4F55-BA0F-5805CB726980 - 30e1bc19b118d464"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "algo.Solution.search(Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "algo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/algo_hub/Algorithm_training/swift/algo/algo/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "47041237-EF6A-4F55-BA0F-5805CB726980 - 30e1bc19b118d464"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "algo.Solution.search(Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "algo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/algo_hub/Algorithm_training/swift/algo/algo/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "171">
+               </Location>
+               <Location
+                  uuid = "47041237-EF6A-4F55-BA0F-5805CB726980 - 30e1bc19b118d464"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "algo.Solution.search(Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "algo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/algo_hub/Algorithm_training/swift/algo/algo/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "47041237-EF6A-4F55-BA0F-5805CB726980 - 30e1bc19b118d464"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "algo.Solution.search(Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "algo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/algo_hub/Algorithm_training/swift/algo/algo/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "175">
+               </Location>
+               <Location
+                  uuid = "47041237-EF6A-4F55-BA0F-5805CB726980 - bd93b53872c596f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "algo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/algo_hub/Algorithm_training/swift/algo/algo/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "423FAFDA-FD91-4E16-A430-B1C557135A45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "algo/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "423FAFDA-FD91-4E16-A430-B1C557135A45 - 30e1bc19b118d74d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "algo.Solution.search(Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "algo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/algo_hub/Algorithm_training/swift/algo/algo/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "423FAFDA-FD91-4E16-A430-B1C557135A45 - 30e1bc19b118d74d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "algo.Solution.search(Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "algo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/algo_hub/Algorithm_training/swift/algo/algo/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "441">
+               </Location>
+               <Location
+                  uuid = "423FAFDA-FD91-4E16-A430-B1C557135A45 - 30e1bc19b118d74d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "algo.Solution.search(Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "algo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/algo_hub/Algorithm_training/swift/algo/algo/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "423FAFDA-FD91-4E16-A430-B1C557135A45 - bd93b53872c596f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "algo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/algo_hub/Algorithm_training/swift/algo/algo/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
