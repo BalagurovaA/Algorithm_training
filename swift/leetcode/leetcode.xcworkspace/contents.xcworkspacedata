@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:leetcode_merge_list_21/leetcode_merge_list_21.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:leetcode_palindrome_list/leetcode_palindrome_list.xcodeproj">
    </FileRef>
    <FileRef

@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FD3D43EC2D77565B0087FC37 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD3D43EB2D77565B0087FC37 /* main.swift */; };
+		FD2BFF1D2D81FF6F00B3D451 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2BFF1C2D81FF6F00B3D451 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		FD3D43E62D77565B0087FC37 /* CopyFiles */ = {
+		FD2BFF172D81FF6F00B3D451 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,13 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		FD2BFEFC2D81E93000B3D451 /* leetcode_9_palindrome */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = leetcode_9_palindrome; sourceTree = SOURCE_ROOT; };
-		FD3D43E82D77565B0087FC37 /* leetcode_9_palindrome */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode_9_palindrome; sourceTree = BUILT_PRODUCTS_DIR; };
-		FD3D43EB2D77565B0087FC37 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		FD2BFF192D81FF6F00B3D451 /* palindromYand */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = palindromYand; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD2BFF1C2D81FF6F00B3D451 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FD3D43E52D77565B0087FC37 /* Frameworks */ = {
+		FD2BFF162D81FF6F00B3D451 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,67 +38,66 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FD3D43DF2D77565B0087FC37 = {
+		FD2BFF102D81FF6F00B3D451 = {
 			isa = PBXGroup;
 			children = (
-				FD3D43EA2D77565B0087FC37 /* leetcode_9_palindrome */,
-				FD3D43E92D77565B0087FC37 /* Products */,
+				FD2BFF1B2D81FF6F00B3D451 /* palindromYand */,
+				FD2BFF1A2D81FF6F00B3D451 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FD3D43E92D77565B0087FC37 /* Products */ = {
+		FD2BFF1A2D81FF6F00B3D451 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FD3D43E82D77565B0087FC37 /* leetcode_9_palindrome */,
+				FD2BFF192D81FF6F00B3D451 /* palindromYand */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FD3D43EA2D77565B0087FC37 /* leetcode_9_palindrome */ = {
+		FD2BFF1B2D81FF6F00B3D451 /* palindromYand */ = {
 			isa = PBXGroup;
 			children = (
-				FD2BFEFC2D81E93000B3D451 /* leetcode_9_palindrome */,
-				FD3D43EB2D77565B0087FC37 /* main.swift */,
+				FD2BFF1C2D81FF6F00B3D451 /* main.swift */,
 			);
-			path = leetcode_9_palindrome;
+			path = palindromYand;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FD3D43E72D77565B0087FC37 /* leetcode_9_palindrome */ = {
+		FD2BFF182D81FF6F00B3D451 /* palindromYand */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FD3D43EF2D77565B0087FC37 /* Build configuration list for PBXNativeTarget "leetcode_9_palindrome" */;
+			buildConfigurationList = FD2BFF202D81FF6F00B3D451 /* Build configuration list for PBXNativeTarget "palindromYand" */;
 			buildPhases = (
-				FD3D43E42D77565B0087FC37 /* Sources */,
-				FD3D43E52D77565B0087FC37 /* Frameworks */,
-				FD3D43E62D77565B0087FC37 /* CopyFiles */,
+				FD2BFF152D81FF6F00B3D451 /* Sources */,
+				FD2BFF162D81FF6F00B3D451 /* Frameworks */,
+				FD2BFF172D81FF6F00B3D451 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = leetcode_9_palindrome;
-			productName = leetcode_9_palindrome;
-			productReference = FD3D43E82D77565B0087FC37 /* leetcode_9_palindrome */;
+			name = palindromYand;
+			productName = palindromYand;
+			productReference = FD2BFF192D81FF6F00B3D451 /* palindromYand */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FD3D43E02D77565B0087FC37 /* Project object */ = {
+		FD2BFF112D81FF6F00B3D451 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1520;
 				LastUpgradeCheck = 1520;
 				TargetAttributes = {
-					FD3D43E72D77565B0087FC37 = {
+					FD2BFF182D81FF6F00B3D451 = {
 						CreatedOnToolsVersion = 15.2;
 					};
 				};
 			};
-			buildConfigurationList = FD3D43E32D77565B0087FC37 /* Build configuration list for PBXProject "leetcode_9_palindrome" */;
+			buildConfigurationList = FD2BFF142D81FF6F00B3D451 /* Build configuration list for PBXProject "palindromYand" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -107,29 +105,29 @@
 				en,
 				Base,
 			);
-			mainGroup = FD3D43DF2D77565B0087FC37;
-			productRefGroup = FD3D43E92D77565B0087FC37 /* Products */;
+			mainGroup = FD2BFF102D81FF6F00B3D451;
+			productRefGroup = FD2BFF1A2D81FF6F00B3D451 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FD3D43E72D77565B0087FC37 /* leetcode_9_palindrome */,
+				FD2BFF182D81FF6F00B3D451 /* palindromYand */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FD3D43E42D77565B0087FC37 /* Sources */ = {
+		FD2BFF152D81FF6F00B3D451 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FD3D43EC2D77565B0087FC37 /* main.swift in Sources */,
+				FD2BFF1D2D81FF6F00B3D451 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		FD3D43ED2D77565B0087FC37 /* Debug */ = {
+		FD2BFF1E2D81FF6F00B3D451 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -192,7 +190,7 @@
 			};
 			name = Debug;
 		};
-		FD3D43EE2D77565B0087FC37 /* Release */ = {
+		FD2BFF1F2D81FF6F00B3D451 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -247,7 +245,7 @@
 			};
 			name = Release;
 		};
-		FD3D43F02D77565B0087FC37 /* Debug */ = {
+		FD2BFF212D81FF6F00B3D451 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -256,7 +254,7 @@
 			};
 			name = Debug;
 		};
-		FD3D43F12D77565B0087FC37 /* Release */ = {
+		FD2BFF222D81FF6F00B3D451 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -268,25 +266,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FD3D43E32D77565B0087FC37 /* Build configuration list for PBXProject "leetcode_9_palindrome" */ = {
+		FD2BFF142D81FF6F00B3D451 /* Build configuration list for PBXProject "palindromYand" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FD3D43ED2D77565B0087FC37 /* Debug */,
-				FD3D43EE2D77565B0087FC37 /* Release */,
+				FD2BFF1E2D81FF6F00B3D451 /* Debug */,
+				FD2BFF1F2D81FF6F00B3D451 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FD3D43EF2D77565B0087FC37 /* Build configuration list for PBXNativeTarget "leetcode_9_palindrome" */ = {
+		FD2BFF202D81FF6F00B3D451 /* Build configuration list for PBXNativeTarget "palindromYand" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FD3D43F02D77565B0087FC37 /* Debug */,
-				FD3D43F12D77565B0087FC37 /* Release */,
+				FD2BFF212D81FF6F00B3D451 /* Debug */,
+				FD2BFF222D81FF6F00B3D451 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FD3D43E02D77565B0087FC37 /* Project object */;
+	rootObject = FD2BFF112D81FF6F00B3D451 /* Project object */;
 }

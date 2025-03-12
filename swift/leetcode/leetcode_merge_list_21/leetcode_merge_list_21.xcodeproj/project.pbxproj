@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FD3D43EC2D77565B0087FC37 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD3D43EB2D77565B0087FC37 /* main.swift */; };
+		FD2BFF0A2D81E98000B3D451 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2BFF092D81E98000B3D451 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		FD3D43E62D77565B0087FC37 /* CopyFiles */ = {
+		FD2BFF042D81E98000B3D451 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,13 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		FD2BFEFC2D81E93000B3D451 /* leetcode_9_palindrome */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = leetcode_9_palindrome; sourceTree = SOURCE_ROOT; };
-		FD3D43E82D77565B0087FC37 /* leetcode_9_palindrome */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode_9_palindrome; sourceTree = BUILT_PRODUCTS_DIR; };
-		FD3D43EB2D77565B0087FC37 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		FD2BFF062D81E98000B3D451 /* leetcode_merge_list_21 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode_merge_list_21; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD2BFF092D81E98000B3D451 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FD3D43E52D77565B0087FC37 /* Frameworks */ = {
+		FD2BFF032D81E98000B3D451 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,67 +38,66 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FD3D43DF2D77565B0087FC37 = {
+		FD2BFEFD2D81E98000B3D451 = {
 			isa = PBXGroup;
 			children = (
-				FD3D43EA2D77565B0087FC37 /* leetcode_9_palindrome */,
-				FD3D43E92D77565B0087FC37 /* Products */,
+				FD2BFF082D81E98000B3D451 /* leetcode_merge_list_21 */,
+				FD2BFF072D81E98000B3D451 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FD3D43E92D77565B0087FC37 /* Products */ = {
+		FD2BFF072D81E98000B3D451 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FD3D43E82D77565B0087FC37 /* leetcode_9_palindrome */,
+				FD2BFF062D81E98000B3D451 /* leetcode_merge_list_21 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FD3D43EA2D77565B0087FC37 /* leetcode_9_palindrome */ = {
+		FD2BFF082D81E98000B3D451 /* leetcode_merge_list_21 */ = {
 			isa = PBXGroup;
 			children = (
-				FD2BFEFC2D81E93000B3D451 /* leetcode_9_palindrome */,
-				FD3D43EB2D77565B0087FC37 /* main.swift */,
+				FD2BFF092D81E98000B3D451 /* main.swift */,
 			);
-			path = leetcode_9_palindrome;
+			path = leetcode_merge_list_21;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FD3D43E72D77565B0087FC37 /* leetcode_9_palindrome */ = {
+		FD2BFF052D81E98000B3D451 /* leetcode_merge_list_21 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FD3D43EF2D77565B0087FC37 /* Build configuration list for PBXNativeTarget "leetcode_9_palindrome" */;
+			buildConfigurationList = FD2BFF0D2D81E98000B3D451 /* Build configuration list for PBXNativeTarget "leetcode_merge_list_21" */;
 			buildPhases = (
-				FD3D43E42D77565B0087FC37 /* Sources */,
-				FD3D43E52D77565B0087FC37 /* Frameworks */,
-				FD3D43E62D77565B0087FC37 /* CopyFiles */,
+				FD2BFF022D81E98000B3D451 /* Sources */,
+				FD2BFF032D81E98000B3D451 /* Frameworks */,
+				FD2BFF042D81E98000B3D451 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = leetcode_9_palindrome;
-			productName = leetcode_9_palindrome;
-			productReference = FD3D43E82D77565B0087FC37 /* leetcode_9_palindrome */;
+			name = leetcode_merge_list_21;
+			productName = leetcode_merge_list_21;
+			productReference = FD2BFF062D81E98000B3D451 /* leetcode_merge_list_21 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FD3D43E02D77565B0087FC37 /* Project object */ = {
+		FD2BFEFE2D81E98000B3D451 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1520;
 				LastUpgradeCheck = 1520;
 				TargetAttributes = {
-					FD3D43E72D77565B0087FC37 = {
+					FD2BFF052D81E98000B3D451 = {
 						CreatedOnToolsVersion = 15.2;
 					};
 				};
 			};
-			buildConfigurationList = FD3D43E32D77565B0087FC37 /* Build configuration list for PBXProject "leetcode_9_palindrome" */;
+			buildConfigurationList = FD2BFF012D81E98000B3D451 /* Build configuration list for PBXProject "leetcode_merge_list_21" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -107,29 +105,29 @@
 				en,
 				Base,
 			);
-			mainGroup = FD3D43DF2D77565B0087FC37;
-			productRefGroup = FD3D43E92D77565B0087FC37 /* Products */;
+			mainGroup = FD2BFEFD2D81E98000B3D451;
+			productRefGroup = FD2BFF072D81E98000B3D451 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FD3D43E72D77565B0087FC37 /* leetcode_9_palindrome */,
+				FD2BFF052D81E98000B3D451 /* leetcode_merge_list_21 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FD3D43E42D77565B0087FC37 /* Sources */ = {
+		FD2BFF022D81E98000B3D451 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FD3D43EC2D77565B0087FC37 /* main.swift in Sources */,
+				FD2BFF0A2D81E98000B3D451 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		FD3D43ED2D77565B0087FC37 /* Debug */ = {
+		FD2BFF0B2D81E98000B3D451 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -192,7 +190,7 @@
 			};
 			name = Debug;
 		};
-		FD3D43EE2D77565B0087FC37 /* Release */ = {
+		FD2BFF0C2D81E98000B3D451 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -247,7 +245,7 @@
 			};
 			name = Release;
 		};
-		FD3D43F02D77565B0087FC37 /* Debug */ = {
+		FD2BFF0E2D81E98000B3D451 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -256,7 +254,7 @@
 			};
 			name = Debug;
 		};
-		FD3D43F12D77565B0087FC37 /* Release */ = {
+		FD2BFF0F2D81E98000B3D451 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -268,25 +266,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FD3D43E32D77565B0087FC37 /* Build configuration list for PBXProject "leetcode_9_palindrome" */ = {
+		FD2BFF012D81E98000B3D451 /* Build configuration list for PBXProject "leetcode_merge_list_21" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FD3D43ED2D77565B0087FC37 /* Debug */,
-				FD3D43EE2D77565B0087FC37 /* Release */,
+				FD2BFF0B2D81E98000B3D451 /* Debug */,
+				FD2BFF0C2D81E98000B3D451 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FD3D43EF2D77565B0087FC37 /* Build configuration list for PBXNativeTarget "leetcode_9_palindrome" */ = {
+		FD2BFF0D2D81E98000B3D451 /* Build configuration list for PBXNativeTarget "leetcode_merge_list_21" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FD3D43F02D77565B0087FC37 /* Debug */,
-				FD3D43F12D77565B0087FC37 /* Release */,
+				FD2BFF0E2D81E98000B3D451 /* Debug */,
+				FD2BFF0F2D81E98000B3D451 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FD3D43E02D77565B0087FC37 /* Project object */;
+	rootObject = FD2BFEFE2D81E98000B3D451 /* Project object */;
 }
