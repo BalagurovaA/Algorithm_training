@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:268_Missing_Number/268_Missing_Number.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:242_Valid_Anagram/242_Valid_Anagram.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:977_Squares_of_a_Sorted_Array/977_Squares_of_a_Sorted_Array/../../88_merge_sorted_array/88_merge_sorted_array.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:977_Squares_of_a_Sorted_Array/977_Squares_of_a_Sorted_Array.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:leetcode_merge_list_21/leetcode_merge_list_21.xcodeproj">
    </FileRef>
    <FileRef

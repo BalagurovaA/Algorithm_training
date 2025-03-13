@@ -3,4 +3,150 @@
    uuid = "A1311BA6-25F9-436F-8630-060A6DD6FE62"
    type = "0"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "434D9E65-1EA2-4DDD-994C-598B37E450D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "977_Squares_of_a_Sorted_Array/977_Squares_of_a_Sorted_Array/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "434D9E65-1EA2-4DDD-994C-598B37E450D9 - 4e58572664ce99ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_77_Squares_of_a_Sorted_Array.Solution.quickSort(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "977_Squares_of_a_Sorted_Array"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/977_Squares_of_a_Sorted_Array/977_Squares_of_a_Sorted_Array/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "189">
+               </Location>
+               <Location
+                  uuid = "434D9E65-1EA2-4DDD-994C-598B37E450D9 - 4e58572664ce99ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_77_Squares_of_a_Sorted_Array.Solution.quickSort(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "977_Squares_of_a_Sorted_Array"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/977_Squares_of_a_Sorted_Array/977_Squares_of_a_Sorted_Array/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A7567B3-4C1B-4ABD-9EE0-9D2F623C4626"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "977_Squares_of_a_Sorted_Array/977_Squares_of_a_Sorted_Array/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "8A7567B3-4C1B-4ABD-9EE0-9D2F623C4626 - 4e58572664ce994d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_77_Squares_of_a_Sorted_Array.Solution.quickSort(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "977_Squares_of_a_Sorted_Array"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/977_Squares_of_a_Sorted_Array/977_Squares_of_a_Sorted_Array/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "241">
+               </Location>
+               <Location
+                  uuid = "8A7567B3-4C1B-4ABD-9EE0-9D2F623C4626 - 4e58572664ce994d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_77_Squares_of_a_Sorted_Array.Solution.quickSort(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "977_Squares_of_a_Sorted_Array"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/977_Squares_of_a_Sorted_Array/977_Squares_of_a_Sorted_Array/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60B11562-37C0-4ABC-97F6-EA18451BCAC2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "268_Missing_Number/268_Missing_Number/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "missingNumber(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "60B11562-37C0-4ABC-97F6-EA18451BCAC2 - d4bb70c99e9b7f80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_68_Missing_Number.Solution.missingNumber(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "268_Missing_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/268_Missing_Number/268_Missing_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "282">
+               </Location>
+               <Location
+                  uuid = "60B11562-37C0-4ABC-97F6-EA18451BCAC2 - d4bb70c99e9b7f80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_68_Missing_Number.Solution.missingNumber(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "268_Missing_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/268_Missing_Number/268_Missing_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "270">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
