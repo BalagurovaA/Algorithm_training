@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:_350_Intersection of Two Arrays II/_350_Intersection of Two Arrays II.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_263_Ugly_Number/_263_Ugly_Number.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:202_Happy_Number/202_Happy_Number.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_141_Linked_List _Cycle/_141_Linked_List _Cycle.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:268_Missing_Number/268_Missing_Number.xcodeproj">
    </FileRef>
    <FileRef

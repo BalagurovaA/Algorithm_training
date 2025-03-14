@@ -148,5 +148,938 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95425C34-C1B4-4F25-A820-252F55AD9EC7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "202_Happy_Number/202_Happy_Number/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "isHappy(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95425C34-C1B4-4F25-A820-252F55AD9EC7 - 3e761c75caa9d0d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "317">
+               </Location>
+               <Location
+                  uuid = "95425C34-C1B4-4F25-A820-252F55AD9EC7 - 3e761c75caa9d0f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  uuid = "95425C34-C1B4-4F25-A820-252F55AD9EC7 - 3e761c75caa9d0f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "95425C34-C1B4-4F25-A820-252F55AD9EC7 - 3e761c75caa9d0f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  uuid = "95425C34-C1B4-4F25-A820-252F55AD9EC7 - 3e761c75caa9d0f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "95425C34-C1B4-4F25-A820-252F55AD9EC7 - 3e761c75caa9d0f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38E0E1D6-B6D1-46BA-8B27-B54C81A7815B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "202_Happy_Number/202_Happy_Number/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "isHappy(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38E0E1D6-B6D1-46BA-8B27-B54C81A7815B - 3e761c75caa9d337"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "323">
+               </Location>
+               <Location
+                  uuid = "38E0E1D6-B6D1-46BA-8B27-B54C81A7815B - 3e761c75caa9d337"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "358">
+               </Location>
+               <Location
+                  uuid = "38E0E1D6-B6D1-46BA-8B27-B54C81A7815B - 3e761c75caa9d337"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "265">
+               </Location>
+               <Location
+                  uuid = "38E0E1D6-B6D1-46BA-8B27-B54C81A7815B - 3e761c75caa9d337"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "38E0E1D6-B6D1-46BA-8B27-B54C81A7815B - 3e761c75caa9d337"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  uuid = "38E0E1D6-B6D1-46BA-8B27-B54C81A7815B - 3e761c75caa9d337"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "230">
+               </Location>
+               <Location
+                  uuid = "38E0E1D6-B6D1-46BA-8B27-B54C81A7815B - 3e761c75caa9d337"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "219">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1784070-2E43-4CEB-AD40-77B32E646A84"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "202_Happy_Number/202_Happy_Number/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "isHappy(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1784070-2E43-4CEB-AD40-77B32E646A84 - 3e761c75caa9d3a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "347">
+               </Location>
+               <Location
+                  uuid = "B1784070-2E43-4CEB-AD40-77B32E646A84 - 3e761c75caa9d3a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "B1784070-2E43-4CEB-AD40-77B32E646A84 - 3e761c75caa9d3a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "323">
+               </Location>
+               <Location
+                  uuid = "B1784070-2E43-4CEB-AD40-77B32E646A84 - 3e761c75caa9d3a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "326">
+               </Location>
+               <Location
+                  uuid = "B1784070-2E43-4CEB-AD40-77B32E646A84 - 3e761c75caa9d3a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "B1784070-2E43-4CEB-AD40-77B32E646A84 - 3e761c75caa9d3a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "B1784070-2E43-4CEB-AD40-77B32E646A84 - 3e761c75caa9d3a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "274">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F33A9307-43E6-4E55-9C21-EFBE00CF3D69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "202_Happy_Number/202_Happy_Number/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "isHappy(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F33A9307-43E6-4E55-9C21-EFBE00CF3D69 - 3e761c75caa9d38b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "370">
+               </Location>
+               <Location
+                  uuid = "F33A9307-43E6-4E55-9C21-EFBE00CF3D69 - 3e761c75caa9d3ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "407">
+               </Location>
+               <Location
+                  uuid = "F33A9307-43E6-4E55-9C21-EFBE00CF3D69 - 3e761c75caa9d3ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "342">
+               </Location>
+               <Location
+                  uuid = "F33A9307-43E6-4E55-9C21-EFBE00CF3D69 - 3e761c75caa9d3ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "345">
+               </Location>
+               <Location
+                  uuid = "F33A9307-43E6-4E55-9C21-EFBE00CF3D69 - 3e761c75caa9d3ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "F33A9307-43E6-4E55-9C21-EFBE00CF3D69 - 3e761c75caa9d3ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "F33A9307-43E6-4E55-9C21-EFBE00CF3D69 - 3e761c75caa9d3ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "298">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06481E94-6574-4490-A257-CD0876410773"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "202_Happy_Number/202_Happy_Number/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "isHappy(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "06481E94-6574-4490-A257-CD0876410773 - 3e761c75caa9d3cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "317">
+               </Location>
+               <Location
+                  uuid = "06481E94-6574-4490-A257-CD0876410773 - 3e761c75caa9d3cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "309">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D775434-2E12-4026-8D9F-CE8268066364"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "202_Happy_Number/202_Happy_Number/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "isHappy(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7D775434-2E12-4026-8D9F-CE8268066364 - 3e761c75caa9d0b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "186">
+               </Location>
+               <Location
+                  uuid = "7D775434-2E12-4026-8D9F-CE8268066364 - 3e761c75caa9d0f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "7D775434-2E12-4026-8D9F-CE8268066364 - 3e761c75caa9d0f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  uuid = "7D775434-2E12-4026-8D9F-CE8268066364 - 3e761c75caa9d0f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "7D775434-2E12-4026-8D9F-CE8268066364 - 3e761c75caa9d0f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DAF0572-8FD1-4A08-B6A4-1F5319D2BA8C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "202_Happy_Number/202_Happy_Number/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "isHappy(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3DAF0572-8FD1-4A08-B6A4-1F5319D2BA8C - 3e761c75caa9d01e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "125">
+               </Location>
+               <Location
+                  uuid = "3DAF0572-8FD1-4A08-B6A4-1F5319D2BA8C - 3e761c75caa9d01e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "3DAF0572-8FD1-4A08-B6A4-1F5319D2BA8C - 3e761c75caa9d01e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_02_Happy_Number.Solution.isHappy(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "202_Happy_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/202_Happy_Number/202_Happy_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48C99D61-3B36-45CD-A23B-F88814D033F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_263_Ugly_Number/_263_Ugly_Number/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "mergeTwoLists(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "48C99D61-3B36-45CD-A23B-F88814D033F6 - ba009ac428edfa7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_263_Ugly_Number.Solution.mergeTwoLists(Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;, Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;) -&gt; Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;"
+                  moduleName = "_263_Ugly_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_263_Ugly_Number/_263_Ugly_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1569">
+               </Location>
+               <Location
+                  uuid = "48C99D61-3B36-45CD-A23B-F88814D033F6 - ba009ac428edfa7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_263_Ugly_Number.Solution.mergeTwoLists(Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;, Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;) -&gt; Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;"
+                  moduleName = "_263_Ugly_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_263_Ugly_Number/_263_Ugly_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1581">
+               </Location>
+               <Location
+                  uuid = "48C99D61-3B36-45CD-A23B-F88814D033F6 - ba009ac428edfbbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_263_Ugly_Number.Solution.mergeTwoLists(Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;, Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;) -&gt; Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;"
+                  moduleName = "_263_Ugly_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_263_Ugly_Number/_263_Ugly_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1571">
+               </Location>
+               <Location
+                  uuid = "48C99D61-3B36-45CD-A23B-F88814D033F6 - ba009ac428edfbbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_263_Ugly_Number.Solution.mergeTwoLists(Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;, Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;) -&gt; Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;"
+                  moduleName = "_263_Ugly_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_263_Ugly_Number/_263_Ugly_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1579">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BE91F7D-8349-40B3-9CF2-B3EA19420509"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_263_Ugly_Number/_263_Ugly_Number/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "mergeTwoLists(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9BE91F7D-8349-40B3-9CF2-B3EA19420509 - ba009ac428edfc30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_263_Ugly_Number.Solution.mergeTwoLists(Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;, Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;) -&gt; Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;"
+                  moduleName = "_263_Ugly_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_263_Ugly_Number/_263_Ugly_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "121">
+               </Location>
+               <Location
+                  uuid = "9BE91F7D-8349-40B3-9CF2-B3EA19420509 - ba009ac428edfc30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_263_Ugly_Number.Solution.mergeTwoLists(Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;, Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;) -&gt; Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;"
+                  moduleName = "_263_Ugly_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_263_Ugly_Number/_263_Ugly_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0FE7822-1547-4EA7-8EBA-74644BC359EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_263_Ugly_Number/_263_Ugly_Number/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "mergeTwoLists(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A0FE7822-1547-4EA7-8EBA-74644BC359EE - ba009ac428edfdcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_263_Ugly_Number.Solution.mergeTwoLists(Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;, Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;) -&gt; Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;"
+                  moduleName = "_263_Ugly_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_263_Ugly_Number/_263_Ugly_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "A0FE7822-1547-4EA7-8EBA-74644BC359EE - ba009ac428edfdcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_263_Ugly_Number.Solution.mergeTwoLists(Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;, Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;) -&gt; Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;"
+                  moduleName = "_263_Ugly_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_263_Ugly_Number/_263_Ugly_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "167">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98DA1584-9D4C-4062-A532-353EED520061"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_263_Ugly_Number/_263_Ugly_Number/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "mergeTwoLists(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "98DA1584-9D4C-4062-A532-353EED520061 - ba009ac428edfd67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_263_Ugly_Number.Solution.mergeTwoLists(Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;, Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;) -&gt; Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;"
+                  moduleName = "_263_Ugly_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_263_Ugly_Number/_263_Ugly_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+               <Location
+                  uuid = "98DA1584-9D4C-4062-A532-353EED520061 - ba009ac428edfd67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_263_Ugly_Number.Solution.mergeTwoLists(Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;, Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;) -&gt; Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;"
+                  moduleName = "_263_Ugly_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_263_Ugly_Number/_263_Ugly_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1053">
+               </Location>
+               <Location
+                  uuid = "98DA1584-9D4C-4062-A532-353EED520061 - ba009ac428edfa86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_263_Ugly_Number.Solution.mergeTwoLists(Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;, Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;) -&gt; Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;"
+                  moduleName = "_263_Ugly_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_263_Ugly_Number/_263_Ugly_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  uuid = "98DA1584-9D4C-4062-A532-353EED520061 - ba009ac428edfa86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_263_Ugly_Number.Solution.mergeTwoLists(Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;, Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;) -&gt; Swift.Optional&lt;_263_Ugly_Number.ListNode&gt;"
+                  moduleName = "_263_Ugly_Number"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_263_Ugly_Number/_263_Ugly_Number/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "836">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
