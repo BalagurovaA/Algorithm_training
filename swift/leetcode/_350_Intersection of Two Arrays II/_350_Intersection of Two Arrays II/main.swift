@@ -6,46 +6,25 @@ class Solution {
         var dic: [Int: Int] = [:]
         var final: [Int] = []
         
-        if nums1.count > nums2.count {
-            for number in nums2 {
-                if let count = dic[number] {
-                    dic[number] = count + 1
-                } else {
-                    dic[number] = 1
-                }
-            }
-            
-            for i in 0..<nums1.count {
-                if dic[nums1[i]] != nil {
-                    dic[nums1[i]]! -= 1
-                }
-            }
-            
-            for i in 0..<nums1.count {
-                if dic[nums1[i]] == 0 {
-                    final.append(nums1[i])
-                }
-            }
-            
-        } else {
-            for number in nums1 {
-                if let count = dic[number] {
-                    dic[number] = count + 1
-                } else {
-                    dic[number] = 1
-                }
-            }
-            for i in 0..<nums2.count {
-                if dic[nums2[i]] != nil {
-                    dic[nums2[i]]! -= 1
-                }
-            }
-            for i in 0..<nums2.count {
-                if dic[nums2[i]] == 0 {
-                    final.append(nums2[i])
-                }
+        let less = nums1.count > nums2.count ? nums1 : nums2
+        let bigger = nums1.count > nums2.count ? nums2 : nums1
+        
+        for number in less {
+            if let count = dic[number] {
+                dic[number] = count + 1
+            } else {
+                dic[number] = 1
             }
         }
+        
+        for number in bigger {
+            if let count = dic[number], count > 0 {
+                final.append(number)
+                dic[number] = count - 1
+            }
+        }
+        
+
         return final
     }
 }

@@ -1081,5 +1081,419 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25FA2F81-34D6-4CC7-BD23-879432B2A663"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "removeDuplicates(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "25FA2F81-34D6-4CC7-BD23-879432B2A663 - 49665f3aa6f2dbbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_26_Remove_Duplicates_from_Sorted_Array.Solution.removeDuplicates(inout Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "_26_Remove_Duplicates_from_Sorted_Array"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "743">
+               </Location>
+               <Location
+                  uuid = "25FA2F81-34D6-4CC7-BD23-879432B2A663 - 49665f3aa6f2dbfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_26_Remove_Duplicates_from_Sorted_Array.Solution.removeDuplicates(inout Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "_26_Remove_Duplicates_from_Sorted_Array"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "961">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52E6AB10-AF17-4328-A449-9F93860D6213"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "removeDuplicates(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "52E6AB10-AF17-4328-A449-9F93860D6213 - 49665f3aa6f2d85d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_26_Remove_Duplicates_from_Sorted_Array.Solution.removeDuplicates(inout Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "_26_Remove_Duplicates_from_Sorted_Array"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "693">
+               </Location>
+               <Location
+                  uuid = "52E6AB10-AF17-4328-A449-9F93860D6213 - 49665f3aa6f2db9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_26_Remove_Duplicates_from_Sorted_Array.Solution.removeDuplicates(inout Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "_26_Remove_Duplicates_from_Sorted_Array"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "911">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E893B4BC-B0C7-4CED-913B-0A732462DD30"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "removeDuplicates(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E893B4BC-B0C7-4CED-913B-0A732462DD30 - 49665f3aa6f2d87a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_26_Remove_Duplicates_from_Sorted_Array.Solution.removeDuplicates(inout Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "_26_Remove_Duplicates_from_Sorted_Array"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "E893B4BC-B0C7-4CED-913B-0A732462DD30 - 49665f3aa6f2dbbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_26_Remove_Duplicates_from_Sorted_Array.Solution.removeDuplicates(inout Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "_26_Remove_Duplicates_from_Sorted_Array"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "814">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "823CF673-4931-4C82-8C91-FDC48E9646C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "removeDuplicates(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "823CF673-4931-4C82-8C91-FDC48E9646C4 - 49665f3aa6f2dbfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_26_Remove_Duplicates_from_Sorted_Array.Solution.removeDuplicates(inout Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "_26_Remove_Duplicates_from_Sorted_Array"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "881">
+               </Location>
+               <Location
+                  uuid = "823CF673-4931-4C82-8C91-FDC48E9646C4 - 49665f3aa6f2dbfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_26_Remove_Duplicates_from_Sorted_Array.Solution.removeDuplicates(inout Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "_26_Remove_Duplicates_from_Sorted_Array"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "885">
+               </Location>
+               <Location
+                  uuid = "823CF673-4931-4C82-8C91-FDC48E9646C4 - 49665f3aa6f2db20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_26_Remove_Duplicates_from_Sorted_Array.Solution.removeDuplicates(inout Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "_26_Remove_Duplicates_from_Sorted_Array"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "100EA0E7-156D-464A-9B89-2BC782D99219"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_125_Valid_Palindrome/_125_Valid_Palindrome/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "isPalindrome(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "100EA0E7-156D-464A-9B89-2BC782D99219 - 59a73a458012b43a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_125_Valid_Palindrome.Solution.isPalindrome(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_125_Valid_Palindrome"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_125_Valid_Palindrome/_125_Valid_Palindrome/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "100EA0E7-156D-464A-9B89-2BC782D99219 - 59a73a458012b43a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_125_Valid_Palindrome.Solution.isPalindrome(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_125_Valid_Palindrome"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_125_Valid_Palindrome/_125_Valid_Palindrome/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "519">
+               </Location>
+               <Location
+                  uuid = "100EA0E7-156D-464A-9B89-2BC782D99219 - 59a73a458012b59f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_125_Valid_Palindrome.Solution.isPalindrome(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_125_Valid_Palindrome"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_125_Valid_Palindrome/_125_Valid_Palindrome/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "697">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D638F26B-41D8-43A2-B3FB-37B6A2BACCDC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_125_Valid_Palindrome/_125_Valid_Palindrome/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "isPalindrome(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D638F26B-41D8-43A2-B3FB-37B6A2BACCDC - 59a73a458012b4c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_125_Valid_Palindrome.Solution.isPalindrome(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_125_Valid_Palindrome"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_125_Valid_Palindrome/_125_Valid_Palindrome/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "D638F26B-41D8-43A2-B3FB-37B6A2BACCDC - 59a73a458012b4e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_125_Valid_Palindrome.Solution.isPalindrome(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_125_Valid_Palindrome"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_125_Valid_Palindrome/_125_Valid_Palindrome/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "67">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3AFAACC-EEC9-4550-978E-27BA3F978AEB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_125_Valid_Palindrome/_125_Valid_Palindrome/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "isPalindrome(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6167DC9E-7702-440F-8A18-681A8610D30F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_125_Valid_Palindrome/_125_Valid_Palindrome/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "isPalindrome(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95655F80-D5C7-4A81-B9CD-F09EC8AF02D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_643_Maximum_Average_Subarray_I/_643_Maximum_Average_Subarray_I/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "95655F80-D5C7-4A81-B9CD-F09EC8AF02D3 - 43553f441e0b9465"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_643_Maximum_Average_Subarray_I.Solution.findMaxAverage(Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; Swift.Double"
+                  moduleName = "_643_Maximum_Average_Subarray_I"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_643_Maximum_Average_Subarray_I/_643_Maximum_Average_Subarray_I/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1309">
+               </Location>
+               <Location
+                  uuid = "95655F80-D5C7-4A81-B9CD-F09EC8AF02D3 - 43553f441e0b9465"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_643_Maximum_Average_Subarray_I.Solution.findMaxAverage(Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; Swift.Double"
+                  moduleName = "_643_Maximum_Average_Subarray_I"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_643_Maximum_Average_Subarray_I/_643_Maximum_Average_Subarray_I/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1274">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BED583C1-91C9-4D95-96B5-40B8BB277430"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_643_Maximum_Average_Subarray_I/_643_Maximum_Average_Subarray_I/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

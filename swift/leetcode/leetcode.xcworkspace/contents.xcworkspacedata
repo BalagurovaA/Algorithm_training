@@ -2,6 +2,21 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:_209_minimum_size_subarray/_209_minimum_size_subarray.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_643_Maximum_Average_Subarray_I/_643_Maximum_Average_Subarray_I.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_125_Valid_Palindrome/_125_Valid_Palindrome.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_28_Find_the_Index_of_the_First_Occurrence_in_a_String/_28_Find_the_Index_of_the_First_Occurrence_in_a_String.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:_350_Intersection of Two Arrays II/_350_Intersection of Two Arrays II.xcodeproj">
    </FileRef>
    <FileRef
