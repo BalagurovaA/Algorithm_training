@@ -1498,20 +1498,20 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "BEC968D7-ED0B-4CE6-AABA-082D00BF24F0"
+            uuid = "FF453767-2D2B-45F9-8A73-2AE23A5E2F51"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
             landmarkName = "minSubArrayLen(_:_:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "BEC968D7-ED0B-4CE6-AABA-082D00BF24F0 - a5e1ff3ca4026e02"
+                  uuid = "FF453767-2D2B-45F9-8A73-2AE23A5E2F51 - a5e1ff3ca4026959"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -1521,12 +1521,12 @@
                   urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "20"
-                  endingLineNumber = "20"
-                  offsetFromSymbolStart = "1274">
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "208">
                </Location>
                <Location
-                  uuid = "BEC968D7-ED0B-4CE6-AABA-082D00BF24F0 - a5e1ff3ca4026e02"
+                  uuid = "FF453767-2D2B-45F9-8A73-2AE23A5E2F51 - a5e1ff3ca4026959"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -1536,54 +1536,9 @@
                   urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "20"
-                  endingLineNumber = "20"
-                  offsetFromSymbolStart = "1267">
-               </Location>
-               <Location
-                  uuid = "BEC968D7-ED0B-4CE6-AABA-082D00BF24F0 - a5e1ff3ca4026ee3"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "_209_minimum_size_subarray.Solution.minSubArrayLen(Swift.Int, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
-                  moduleName = "_209_minimum_size_subarray"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "21"
-                  endingLineNumber = "21"
-                  offsetFromSymbolStart = "1297">
-               </Location>
-               <Location
-                  uuid = "BEC968D7-ED0B-4CE6-AABA-082D00BF24F0 - a5e1ff3ca4026ee3"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "_209_minimum_size_subarray.Solution.minSubArrayLen(Swift.Int, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
-                  moduleName = "_209_minimum_size_subarray"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "21"
-                  endingLineNumber = "21"
-                  offsetFromSymbolStart = "1317">
-               </Location>
-               <Location
-                  uuid = "BEC968D7-ED0B-4CE6-AABA-082D00BF24F0 - a5e1ff3ca4026ee3"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "_209_minimum_size_subarray.Solution.minSubArrayLen(Swift.Int, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
-                  moduleName = "_209_minimum_size_subarray"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "21"
-                  endingLineNumber = "21"
-                  offsetFromSymbolStart = "1242">
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "214">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1591,20 +1546,83 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "0C441FA6-765B-4569-89EC-D2069175663F"
+            uuid = "F133CDE0-D083-440E-99C2-B5CE18134F75"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
             landmarkName = "minSubArrayLen(_:_:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "0C441FA6-765B-4569-89EC-D2069175663F - a5e1ff3ca4026ec4"
+                  uuid = "F133CDE0-D083-440E-99C2-B5CE18134F75 - a5e1ff3ca40269dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_209_minimum_size_subarray.Solution.minSubArrayLen(Swift.Int, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "_209_minimum_size_subarray"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "835">
+               </Location>
+               <Location
+                  uuid = "F133CDE0-D083-440E-99C2-B5CE18134F75 - a5e1ff3ca40269dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_209_minimum_size_subarray.Solution.minSubArrayLen(Swift.Int, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "_209_minimum_size_subarray"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "843">
+               </Location>
+               <Location
+                  uuid = "F133CDE0-D083-440E-99C2-B5CE18134F75 - a5e1ff3ca40269dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_209_minimum_size_subarray.Solution.minSubArrayLen(Swift.Int, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "_209_minimum_size_subarray"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "849">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4A0A3B5-A893-4B94-98AD-CA0300F072A6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "minSubArrayLen(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4A0A3B5-A893-4B94-98AD-CA0300F072A6 - a5e1ff3ca4026ec4"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -1616,10 +1634,10 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "22"
                   endingLineNumber = "22"
-                  offsetFromSymbolStart = "1395">
+                  offsetFromSymbolStart = "913">
                </Location>
                <Location
-                  uuid = "0C441FA6-765B-4569-89EC-D2069175663F - a5e1ff3ca4026ec4"
+                  uuid = "D4A0A3B5-A893-4B94-98AD-CA0300F072A6 - a5e1ff3ca4026e21"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -1629,12 +1647,12 @@
                   urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "1388">
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "938">
                </Location>
                <Location
-                  uuid = "0C441FA6-765B-4569-89EC-D2069175663F - a5e1ff3ca4026ea5"
+                  uuid = "D4A0A3B5-A893-4B94-98AD-CA0300F072A6 - a5e1ff3ca4026e21"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -1644,84 +1662,9 @@
                   urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "23"
-                  endingLineNumber = "23"
-                  offsetFromSymbolStart = "1418">
-               </Location>
-               <Location
-                  uuid = "0C441FA6-765B-4569-89EC-D2069175663F - a5e1ff3ca4026ea5"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "_209_minimum_size_subarray.Solution.minSubArrayLen(Swift.Int, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
-                  moduleName = "_209_minimum_size_subarray"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "23"
-                  endingLineNumber = "23"
-                  offsetFromSymbolStart = "1438">
-               </Location>
-               <Location
-                  uuid = "0C441FA6-765B-4569-89EC-D2069175663F - a5e1ff3ca4026ea5"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "_209_minimum_size_subarray.Solution.minSubArrayLen(Swift.Int, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
-                  moduleName = "_209_minimum_size_subarray"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "23"
-                  endingLineNumber = "23"
-                  offsetFromSymbolStart = "1363">
-               </Location>
-               <Location
-                  uuid = "0C441FA6-765B-4569-89EC-D2069175663F - a5e1ff3ca4026e86"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "_209_minimum_size_subarray.Solution.minSubArrayLen(Swift.Int, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
-                  moduleName = "_209_minimum_size_subarray"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24"
-                  offsetFromSymbolStart = "1333">
-               </Location>
-               <Location
-                  uuid = "0C441FA6-765B-4569-89EC-D2069175663F - a5e1ff3ca4026e86"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "_209_minimum_size_subarray.Solution.minSubArrayLen(Swift.Int, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
-                  moduleName = "_209_minimum_size_subarray"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24"
-                  offsetFromSymbolStart = "1359">
-               </Location>
-               <Location
-                  uuid = "0C441FA6-765B-4569-89EC-D2069175663F - a5e1ff3ca4026e86"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "_209_minimum_size_subarray.Solution.minSubArrayLen(Swift.Int, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
-                  moduleName = "_209_minimum_size_subarray"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24"
-                  offsetFromSymbolStart = "1363">
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "944">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1729,47 +1672,362 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "FF987F88-52DE-433D-8B83-1419D8E23601"
+            uuid = "295D8900-F3D6-4860-977E-0B119475E3B4"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
+            filePath = "_20/_20/main.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
-            landmarkName = "minSubArrayLen(_:_:)"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "isValid(_:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "FF987F88-52DE-433D-8B83-1419D8E23601 - a5e1ff3ca4026c50"
+                  uuid = "295D8900-F3D6-4860-977E-0B119475E3B4 - 165460a120a92bd9"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "_209_minimum_size_subarray.Solution.minSubArrayLen(Swift.Int, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
-                  moduleName = "_209_minimum_size_subarray"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "34"
-                  endingLineNumber = "34"
-                  offsetFromSymbolStart = "1439">
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "1407">
                </Location>
                <Location
-                  uuid = "FF987F88-52DE-433D-8B83-1419D8E23601 - a5e1ff3ca4026c6f"
+                  uuid = "295D8900-F3D6-4860-977E-0B119475E3B4 - 165460a120a92bf8"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "_209_minimum_size_subarray.Solution.minSubArrayLen(Swift.Int, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
-                  moduleName = "_209_minimum_size_subarray"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_209_minimum_size_subarray/_209_minimum_size_subarray/main.swift"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "33"
-                  endingLineNumber = "33"
-                  offsetFromSymbolStart = "1579">
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "1644">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93C89455-FE7C-4981-B7E7-BE4A176E2CFD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_20/_20/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "isValid(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "93C89455-FE7C-4981-B7E7-BE4A176E2CFD - 165460a120a9292f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "3573">
+               </Location>
+               <Location
+                  uuid = "93C89455-FE7C-4981-B7E7-BE4A176E2CFD - 165460a120a92af0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "3343">
+               </Location>
+               <Location
+                  uuid = "93C89455-FE7C-4981-B7E7-BE4A176E2CFD - 165460a120a9292f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "3580">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEA78E52-39B2-4F43-BF63-10A6F98E31A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_20/_20/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "isValid(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FEA78E52-39B2-4F43-BF63-10A6F98E31A0 - 165460a120a928a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "4410">
+               </Location>
+               <Location
+                  uuid = "FEA78E52-39B2-4F43-BF63-10A6F98E31A0 - 165460a120a928e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "4471">
+               </Location>
+               <Location
+                  uuid = "FEA78E52-39B2-4F43-BF63-10A6F98E31A0 - 165460a120a92f00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "4708">
+               </Location>
+               <Location
+                  uuid = "FEA78E52-39B2-4F43-BF63-10A6F98E31A0 - 165460a120a92f00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "4711">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED9AFF91-4AB8-4250-BA9C-8EEB43BDB4F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_20/_20/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "isValid(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ED9AFF91-4AB8-4250-BA9C-8EEB43BDB4F4 - a67d244b46d1ad8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "13">
+               </Location>
+               <Location
+                  uuid = "ED9AFF91-4AB8-4250-BA9C-8EEB43BDB4F4 - 165460a120a92f3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "4491">
+               </Location>
+               <Location
+                  uuid = "ED9AFF91-4AB8-4250-BA9C-8EEB43BDB4F4 - 165460a120a92f5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "4728">
+               </Location>
+               <Location
+                  uuid = "ED9AFF91-4AB8-4250-BA9C-8EEB43BDB4F4 - 165460a120a92f5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "4731">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56CE627A-B5BB-4A28-A22D-5E4DDED4AD2A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_20/_20/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "isValid(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56CE627A-B5BB-4A28-A22D-5E4DDED4AD2A - 165460a120a92b7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "618">
+               </Location>
+               <Location
+                  uuid = "56CE627A-B5BB-4A28-A22D-5E4DDED4AD2A - 165460a120a92b9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "855">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23DD26E7-AC24-4DE9-878A-ADAA921F5DA2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_20/_20/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "isValid(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23DD26E7-AC24-4DE9-878A-ADAA921F5DA2 - 165460a120a92b3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "209">
+               </Location>
+               <Location
+                  uuid = "23DD26E7-AC24-4DE9-878A-ADAA921F5DA2 - 165460a120a92b5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20.Solution.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "_20"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/_20/_20/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "405">
                </Location>
             </Locations>
          </BreakpointContent>

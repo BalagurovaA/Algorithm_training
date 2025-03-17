@@ -2,6 +2,24 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:771.swift">
+   </FileRef>
+   <FileRef
+      location = "group:344.swift">
+   </FileRef>
+   <FileRef
+      location = "group:template/template.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:1450/1450.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_387/_387.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_20/_20.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:_209_minimum_size_subarray/_209_minimum_size_subarray.xcodeproj">
    </FileRef>
    <FileRef
