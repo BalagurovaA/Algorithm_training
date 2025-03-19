@@ -1,5 +1,3 @@
-
-
 // это анечка брутфорс
 //class Solution {
 //    func isSubsequence(_ s: String, _ t: String) -> Bool {
@@ -25,6 +23,7 @@
 //    }
 //}
 
+import Foundation
 class Solution {
     func isSubsequence(_ s: String, _ t: String) -> Bool {
         if s.isEmpty {return true }
