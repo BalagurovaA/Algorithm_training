@@ -1,21 +1,34 @@
 
 
 import Foundation
-class Solution {
-    func missingNumber(_ nums: [Int]) -> Int {
-        let n = nums.count
-        
-        
-        let sumDia = n
-        print(nums.reduce(0, {$0 + $1}))
-        print([0,nums.count].reduce(0, {$0 + $1}))
-              
-        return nums.reduce(0, {$0 + $1}) - [0,nums.count].reduce(0, {$0 + $1})
-        
-        
+
+public class TreeNode {
+    public var val: Int
+    public var left: TreeNode?
+    public var right: TreeNode?
+    public init() { self.val = 0; self.left = nil; self.right = nil; }
+    public init(_ val: Int) { self.val = val; self.left = nil; self.right = nil; }
+    public init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {
+        self.val = val
+        self.left = left
+        self.right = right
     }
 }
-var sol = Solution()
-let nums = [1, 2]
-print(sol.missingNumber(nums))
+
+class Solution {
+    func isSameTree(_ p: TreeNode?, _ q: TreeNode?) -> Bool {
+        if p == nil && q == nil {
+            return true
+        } else if (p == nil || q == nil) || (p?.val != q?.val) {
+            return false
+        } else if (isSameTree(p?.left, q?.left)) == true && (isSameTree(p?.right, q?.right)) == true {
+            return true
+        }
+        
+        return false
+    }
+    
+    
+}
+
 

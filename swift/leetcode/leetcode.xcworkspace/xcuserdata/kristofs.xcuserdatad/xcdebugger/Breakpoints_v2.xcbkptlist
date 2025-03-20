@@ -103,54 +103,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "60B11562-37C0-4ABC-97F6-EA18451BCAC2"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "268_Missing_Number/268_Missing_Number/main.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "15"
-            endingLineNumber = "15"
-            landmarkName = "missingNumber(_:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "60B11562-37C0-4ABC-97F6-EA18451BCAC2 - d4bb70c99e9b7f80"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "_68_Missing_Number.Solution.missingNumber(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
-                  moduleName = "268_Missing_Number"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/268_Missing_Number/268_Missing_Number/main.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "8"
-                  endingLineNumber = "8"
-                  offsetFromSymbolStart = "282">
-               </Location>
-               <Location
-                  uuid = "60B11562-37C0-4ABC-97F6-EA18451BCAC2 - d4bb70c99e9b7f80"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "_68_Missing_Number.Solution.missingNumber(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
-                  moduleName = "268_Missing_Number"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/268_Missing_Number/268_Missing_Number/main.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "8"
-                  endingLineNumber = "8"
-                  offsetFromSymbolStart = "270">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "95425C34-C1B4-4F25-A820-252F55AD9EC7"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
