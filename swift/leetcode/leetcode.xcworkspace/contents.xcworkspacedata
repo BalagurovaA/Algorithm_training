@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:404.swift">
+   </FileRef>
+   <FileRef
+      location = "group:228.swift">
+   </FileRef>
+   <FileRef
+      location = "group:110.swift">
+   </FileRef>
+   <FileRef
       location = "group:557.swift">
    </FileRef>
    <FileRef
@@ -36,9 +45,6 @@
    </FileRef>
    <FileRef
       location = "group:206.swift">
-   </FileRef>
-   <FileRef
-      location = "group:template term/template term.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:template/template.xcodeproj">

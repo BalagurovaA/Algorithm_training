@@ -1984,5 +1984,83 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3001541-56E1-4DEC-9FDA-9CAA94F0B39B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "template term/template term/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "summaryRanges(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3001541-56E1-4DEC-9FDA-9CAA94F0B39B - 80a19dcddfade464"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template_term.Solution.summaryRanges(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "template term"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template%20term/template%20term/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "299">
+               </Location>
+               <Location
+                  uuid = "B3001541-56E1-4DEC-9FDA-9CAA94F0B39B - 80a19dcddfade464"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template_term.Solution.summaryRanges(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "template term"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template%20term/template%20term/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "275">
+               </Location>
+               <Location
+                  uuid = "B3001541-56E1-4DEC-9FDA-9CAA94F0B39B - 80a19dcddfade464"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template_term.Solution.summaryRanges(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "template term"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template%20term/template%20term/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "B3001541-56E1-4DEC-9FDA-9CAA94F0B39B - 80a19dcddfade464"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template_term.Solution.summaryRanges(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "template term"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template%20term/template%20term/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "337">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
