@@ -2062,5 +2062,131 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4930DF8C-1A53-45DA-B776-0DC65313EE9B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "template/template/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "partitionLabels(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4930DF8C-1A53-45DA-B776-0DC65313EE9B - ccb46443359fb2ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.partitionLabels(Swift.String) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1666">
+               </Location>
+               <Location
+                  uuid = "4930DF8C-1A53-45DA-B776-0DC65313EE9B - ccb46443359fb2ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.partitionLabels(Swift.String) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1636">
+               </Location>
+               <Location
+                  uuid = "4930DF8C-1A53-45DA-B776-0DC65313EE9B - ccb46443359fb2ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.partitionLabels(Swift.String) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1439">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E73B4EF5-191E-440B-A074-56167CF3A98D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "template/template/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "partitionLabels(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E73B4EF5-191E-440B-A074-56167CF3A98D - ccb46443359fb28c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.partitionLabels(Swift.String) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1179">
+               </Location>
+               <Location
+                  uuid = "E73B4EF5-191E-440B-A074-56167CF3A98D - ccb46443359fb28c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.partitionLabels(Swift.String) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1149">
+               </Location>
+               <Location
+                  uuid = "E73B4EF5-191E-440B-A074-56167CF3A98D - ccb46443359fb28c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.partitionLabels(Swift.String) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1001">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
