@@ -1,3 +1,9 @@
+//
+//  387.swift
+//
+//
+//  Created by Kristofer Sartorial on 3/26/25.
+//
 
 import Foundation
 
@@ -20,6 +26,6 @@ class Solution {
     }
 }
 
-    var sol = Solution()
-    var s = "aabb"
-    print(sol.firstUniqChar(s))
+var sol = Solution()
+var s = "aabb"
+print(sol.firstUniqChar(s))

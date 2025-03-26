@@ -1,37 +1,32 @@
-// 763
+// 56
+//
+//import Foundation 
+//
+//class Solution {
+//    func removeElement(_ nums: inout [Int], _ val: Int) -> Int {
+//        
+//        var k = 0
+//        for i in 0..<nums.count {
+//            if nums[i] != val {
+//                nums[k] = nums[i]
+//                k += 1
+//            }
+//        }
+//        return k
+//    }
+//}
+//
+//
+// var s = Solution()
+//var  n: [Int] = [0,1,2,2,3,0,4,2]
+//
+//print(s.removeElement(&n, 2))
+//print(n)
+//
 
-import Foundation
 
 class Solution {
-    func partitionLabels(_ s: String) -> [Int] {
-        let strArr = Array(s)
-        var lastIndices: [Character: Int] = [:]
-        
-        
-        for i in 0..<strArr.count {
-            lastIndices[strArr[i]] = i
-        }
-        
-        var size = 0
-        var end = 0
-        var finish: [Int] = []
-        
-        for i in 0..<strArr.count {
-            
-            size += 1
-            end = max(lastIndices[strArr[i]]!, end)
-            
-            if i == end {
-                finish.append(size)
-                size = 0
-            }
-
-        }
-
-        return finish
+    func rotate(_ matrix: inout [[Int]]) {
+        matrix.
     }
 }
-
-var sol = Solution()
-var s = "ababcbacadefegdehijhklij"
-print(sol.partitionLabels(s))
