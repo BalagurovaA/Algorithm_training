@@ -1,32 +1,36 @@
-// 56
-//
-//import Foundation 
-//
-//class Solution {
-//    func removeElement(_ nums: inout [Int], _ val: Int) -> Int {
-//        
-//        var k = 0
-//        for i in 0..<nums.count {
-//            if nums[i] != val {
-//                nums[k] = nums[i]
-//                k += 1
-//            }
-//        }
-//        return k
-//    }
-//}
-//
-//
-// var s = Solution()
-//var  n: [Int] = [0,1,2,2,3,0,4,2]
-//
-//print(s.removeElement(&n, 2))
-//print(n)
-//
-
+import Foundation
 
 class Solution {
-    func rotate(_ matrix: inout [[Int]]) {
-        matrix.
+    func spiralOrder(_ matrix: [[Int]]) -> [Int] {
+        var I = matrix.count - 1
+        var J = matrix[I].count - 1
+        
+        var i = 0
+        var j = 0
+        
+        var final: [Int] = []
+        
+        var HOR = true
+        
+        while i <= I && j <= J {
+            if HOR == true {
+                
+                while j < J {
+                    final.append(matrix[i][j])
+                }
+                
+                
+            }
+        }
+        
+        return [0]
     }
 }
+
+
+
+var sol = Solution()
+//var mat = [[1,2,3],[4,5,6],[7,8,9]]
+var mat = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+
+print(sol.spiralOrder(mat))

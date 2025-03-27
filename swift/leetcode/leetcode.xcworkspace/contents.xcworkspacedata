@@ -2,6 +2,27 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:643.swift">
+   </FileRef>
+   <FileRef
+      location = "group:498.swift">
+   </FileRef>
+   <FileRef
+      location = "group:209.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Explore.swift">
+   </FileRef>
+   <FileRef
+      location = "group:20.swift">
+   </FileRef>
+   <FileRef
+      location = "group:724.swift">
+   </FileRef>
+   <FileRef
+      location = "group:27.swift">
+   </FileRef>
+   <FileRef
       location = "group:56.swift">
    </FileRef>
    <FileRef
@@ -66,15 +87,6 @@
    </FileRef>
    <FileRef
       location = "group:template/template.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:_20/_20.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:_209_minimum_size_subarray/_209_minimum_size_subarray.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:_643_Maximum_Average_Subarray_I/_643_Maximum_Average_Subarray_I.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:_125_Valid_Palindrome/_125_Valid_Palindrome.xcodeproj">
