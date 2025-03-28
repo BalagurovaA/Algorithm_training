@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:125.swift">
+   </FileRef>
+   <FileRef
+      location = "group:14.swift">
+   </FileRef>
+   <FileRef
       location = "group:28.swift">
    </FileRef>
    <FileRef
@@ -93,9 +99,6 @@
    </FileRef>
    <FileRef
       location = "group:template/template.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:_125_Valid_Palindrome/_125_Valid_Palindrome.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:_28_Find_the_Index_of_the_First_Occurrence_in_a_String/_28_Find_the_Index_of_the_First_Occurrence_in_a_String.xcodeproj">
