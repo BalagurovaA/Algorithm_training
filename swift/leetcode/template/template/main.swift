@@ -1,36 +1,43 @@
-import Foundation
-
 class Solution {
-    func spiralOrder(_ matrix: [[Int]]) -> [Int] {
-        var I = matrix.count - 1
-        var J = matrix[I].count - 1
+    func longestCommonPrefix(_ strs: [String]) -> String {
         
-        var i = 0
-        var j = 0
-        
-        var final: [Int] = []
-        
-        var HOR = true
-        
-        while i <= I && j <= J {
-            if HOR == true {
-                
-                while j < J {
-                    final.append(matrix[i][j])
+        var firstStr = Array(strs[0])
+        var res = ""
+
+        for i in 0..<firstStr.count {
+            for s in strs {
+                if i >= s.count || firstStr[i] != Array(s)[i] {
+                    return res
                 }
-                
-                
             }
+            res += String(firstStr[i])
         }
         
-        return [0]
+        return res
     }
 }
-
-
-
 var sol = Solution()
-//var mat = [[1,2,3],[4,5,6],[7,8,9]]
-var mat = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+var s1 = ["tag", "flag", "mag"]
 
-print(sol.spiralOrder(mat))
+print(sol.longestCommonPrefix(s1))
+
+//
+//class Solution {
+//    func longestCommonPrefix(_ strs: [String]) -> String {
+//        if strs.isEmpty { return "" }
+//        if strs.contains("") { return "" }
+//        var res = ""
+//        
+//        let firstStrArr = Array(strs[0])
+//        
+//        for i in 0..<firstStrArr.count {
+//            for s in strs {
+//                if i >= Array(s).count || firstStrArr[i] != Array(s)[i]  {
+//                    return res
+//                }
+//            }
+//            res += String(Array(strs[0])[i])
+//        }
+//        return res
+//    }
+//}
