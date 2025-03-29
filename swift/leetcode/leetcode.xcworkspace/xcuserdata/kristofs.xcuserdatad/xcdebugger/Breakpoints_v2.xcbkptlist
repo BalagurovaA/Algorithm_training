@@ -2062,5 +2062,275 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C45227C-B0F1-466B-9F69-0A93F8D26A91"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "template/template/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "findDiagonalOrder(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C45227C-B0F1-466B-9F69-0A93F8D26A91 - e8cd1ac1d549c5d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.findDiagonalOrder(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "871">
+               </Location>
+               <Location
+                  uuid = "0C45227C-B0F1-466B-9F69-0A93F8D26A91 - e8cd1ac1d549c35f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.findDiagonalOrder(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+               <Location
+                  uuid = "0C45227C-B0F1-466B-9F69-0A93F8D26A91 - e8cd1ac1d549c35f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.findDiagonalOrder(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB3B8046-7872-40BB-87F0-B43A51160975"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "template/template/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "findDiagonalOrder(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB3B8046-7872-40BB-87F0-B43A51160975 - e8cd1ac1d549c3e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.findDiagonalOrder(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "838">
+               </Location>
+               <Location
+                  uuid = "BB3B8046-7872-40BB-87F0-B43A51160975 - e8cd1ac1d549c3e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.findDiagonalOrder(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "982">
+               </Location>
+               <Location
+                  uuid = "BB3B8046-7872-40BB-87F0-B43A51160975 - e8cd1ac1d549c3e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.findDiagonalOrder(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1098">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD19D128-1C4D-494C-BDA6-A380381DC4B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "template/template/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "findDiagonalOrder(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BD19D128-1C4D-494C-BDA6-A380381DC4B4 - e8cd1ac1d549c0eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.findDiagonalOrder(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "482">
+               </Location>
+               <Location
+                  uuid = "BD19D128-1C4D-494C-BDA6-A380381DC4B4 - e8cd1ac1d549c0eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.findDiagonalOrder(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "598">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84824F60-7DC8-4D33-9824-013FA26E4E86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "template/template/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "findDiagonalOrder(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "84824F60-7DC8-4D33-9824-013FA26E4E86 - e8cd1ac1d549c108"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.findDiagonalOrder(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "84824F60-7DC8-4D33-9824-013FA26E4E86 - e8cd1ac1d549c108"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.findDiagonalOrder(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "588">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "894DBA52-7A38-4D18-AA37-8E789925D4E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "template/template/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "findDiagonalOrder(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "894DBA52-7A38-4D18-AA37-8E789925D4E2 - e8cd1ac1d549c0ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.findDiagonalOrder(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "617">
+               </Location>
+               <Location
+                  uuid = "894DBA52-7A38-4D18-AA37-8E789925D4E2 - e8cd1ac1d549c0ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "template.Solution.findDiagonalOrder(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristofs/Desktop/Algorithm_training/swift/leetcode/template/template/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "733">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
