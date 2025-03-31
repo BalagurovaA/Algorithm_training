@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:tink_7.swift">
+   </FileRef>
+   <FileRef
+      location = "group:tink_5.swift">
+   </FileRef>
+   <FileRef
       location = "group:tink_4.swift">
    </FileRef>
    <FileRef
